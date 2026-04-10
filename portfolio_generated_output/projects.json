@@ -1,0 +1,585 @@
+[
+  {
+    "title": "Taaply | We deliver simple, secure digital services for networking, identity, education, health and everyday services - built for people and institutions.",
+    "description": "We deliver simple, secure digital services for networking, identity, education, health and everyday services - built for people and institutions.",
+    "technologies": [
+      "Tailwind CSS"
+    ],
+    "keyFeatures": [
+      "Responsive design layout",
+      "Interactive UX implementation"
+    ],
+    "confidence": "Medium",
+    "reason": "Tailwind classes",
+    "url": "https://taaply.com/",
+    "image": "images/taaply_com.png"
+  },
+  {
+    "title": "vlinq Digital Business",
+    "description": "vlinq is an ecommerce and digital business card platform that allows users to create an online store in as little as 5 minutes. It is considered a str...",
+    "technologies": [
+      "Vue.js",
+      "Tailwind CSS"
+    ],
+    "keyFeatures": [
+      "Component-based UI architecture",
+      "Responsive design layout",
+      "Interactive UX implementation"
+    ],
+    "confidence": "High",
+    "reason": "Vue instance detected, Tailwind classes",
+    "url": "https://vlinq.co/",
+    "image": "images/vlinq_co.png"
+  },
+  {
+    "title": "vlinq store | start selling online in minutes | made in Pakistan",
+    "description": "Effortlessly build, customize, and manage your online store. Boost your conversions and take your business to next level",
+    "technologies": [
+      "Vue.js",
+      "Tailwind CSS"
+    ],
+    "keyFeatures": [
+      "Component-based UI architecture",
+      "Responsive design layout",
+      "Interactive UX implementation"
+    ],
+    "confidence": "High",
+    "reason": "Vue instance detected, Tailwind classes",
+    "url": "https://store.vlinq.co/",
+    "image": "images/store_vlinq_co.png"
+  },
+  {
+    "title": "DEMO STORE | Online Store",
+    "description": "This is a demo store created to showcase design, layout, and functionality. Products, prices, and content are for display purposes only.",
+    "technologies": [
+      "Vue.js",
+      "Tailwind CSS"
+    ],
+    "keyFeatures": [
+      "Component-based UI architecture",
+      "Responsive design layout",
+      "Interactive UX implementation"
+    ],
+    "confidence": "High",
+    "reason": "Vue instance detected, Tailwind classes",
+    "url": "https://store.vlinq.co/demo_store/",
+    "image": "images/store_vlinq_co_demo_store.png"
+  },
+  {
+    "title": "undefined | Online Store",
+    "description": "undefined | Online Store",
+    "technologies": [
+      "Vue.js"
+    ],
+    "keyFeatures": [
+      "Component-based UI architecture",
+      "Interactive UX implementation"
+    ],
+    "confidence": "Medium",
+    "reason": "Vue instance detected",
+    "url": "https://store.dex.vlinq.co/elahi14",
+    "image": "images/store_dex_vlinq_co_elahi14.png"
+  },
+  {
+    "title": "furorjeans | Online Store",
+    "description": "furorjeans | Online Store",
+    "technologies": [
+      "Vue.js",
+      "Tailwind CSS"
+    ],
+    "keyFeatures": [
+      "Component-based UI architecture",
+      "Responsive design layout",
+      "Interactive UX implementation"
+    ],
+    "confidence": "High",
+    "reason": "Vue instance detected, Tailwind classes",
+    "url": "https://store.dex.vlinq.co/furorclone",
+    "image": "images/store_dex_vlinq_co_furorclone.png"
+  },
+  {
+    "title": "Elahi | Online Store",
+    "description": "Elahi | Online Store",
+    "technologies": [
+      "Vue.js",
+      "Tailwind CSS"
+    ],
+    "keyFeatures": [
+      "Component-based UI architecture",
+      "Responsive design layout",
+      "Interactive UX implementation"
+    ],
+    "confidence": "High",
+    "reason": "Vue instance detected, Tailwind classes",
+    "url": "https://store.dex.vlinq.co/alkaramclone",
+    "image": "images/store_dex_vlinq_co_alkaramclone.png"
+  },
+  {
+    "title": "PLUTO | Online Store",
+    "description": "A vibrant and playful theme, perfect for showcasing toys, makeup, and funky items. With its colorful design and lively aesthetics, it ensures your pro...",
+    "technologies": [
+      "Vue.js",
+      "Tailwind CSS"
+    ],
+    "keyFeatures": [
+      "Component-based UI architecture",
+      "Responsive design layout",
+      "Interactive UX implementation"
+    ],
+    "confidence": "High",
+    "reason": "Vue instance detected, Tailwind classes",
+    "url": "https://store.vlinq.co/pluto_theme",
+    "image": "images/store_vlinq_co_pluto_theme.png"
+  },
+  {
+    "title": "Astrivo | Online Store",
+    "description": "With a focus on quality and style, Studio Sphere redefines home decor by providing unique pieces that seamlessly blend comfort and sophistication.",
+    "technologies": [
+      "Vue.js",
+      "Tailwind CSS"
+    ],
+    "keyFeatures": [
+      "Component-based UI architecture",
+      "Responsive design layout",
+      "Interactive UX implementation"
+    ],
+    "confidence": "High",
+    "reason": "Vue instance detected, Tailwind classes",
+    "url": "https://store.vlinq.co/default_theme",
+    "image": "images/store_vlinq_co_default_theme.png"
+  },
+  {
+    "title": "Horizam",
+    "description": "Professional frontend project showcasing responsive web design and modern layout.",
+    "technologies": [
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "keyFeatures": [
+      "Semantic HTML structure",
+      "Custom Styling",
+      "Interactive UX implementation"
+    ],
+    "confidence": "Low",
+    "reason": "Standard stack inferred",
+    "url": "https://horizam.com/",
+    "image": "images/horizam_com.png"
+  },
+  {
+    "title": "Innovorbs | IT Solutions & Services",
+    "description": "Professional frontend project showcasing responsive web design and modern layout.",
+    "technologies": [
+      "Vue.js",
+      "Tailwind CSS"
+    ],
+    "keyFeatures": [
+      "Component-based UI architecture",
+      "Responsive design layout",
+      "Interactive UX implementation"
+    ],
+    "confidence": "High",
+    "reason": "Vue instance detected, Tailwind classes",
+    "url": "https://innovorbs.com/",
+    "image": "images/innovorbs_com.png"
+  },
+  {
+    "title": "Medical Billing Company USA | RCM Experts | The Medicators",
+    "description": "Trusted medical billing services since 2003. Reduce denials, accelerate cash flow with 24/7 RCM support. Used by hospitals & clinics nationwide.",
+    "technologies": [
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "keyFeatures": [
+      "Semantic HTML structure",
+      "Custom Styling",
+      "Interactive UX implementation"
+    ],
+    "confidence": "Low",
+    "reason": "Standard stack inferred",
+    "url": "https://themedicators.com/",
+    "image": "images/themedicators_com.png"
+  },
+  {
+    "title": "Improving payment and patient care",
+    "description": "Professional frontend project showcasing responsive web design and modern layout.",
+    "technologies": [
+      "Bootstrap"
+    ],
+    "keyFeatures": [
+      "Responsive design layout",
+      "Interactive UX implementation"
+    ],
+    "confidence": "Medium",
+    "reason": "Bootstrap structure",
+    "url": "https://www.renderhealth.com/",
+    "image": "images/www_renderhealth_com.png"
+  },
+  {
+    "title": "Bamkoles - Design-driven building company in Georgia",
+    "description": "Bamkoles is a design-driven building, construction management and development firm dedicated to crafting beautiful homes in Georgia.",
+    "technologies": [
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "keyFeatures": [
+      "Semantic HTML structure",
+      "Custom Styling",
+      "Interactive UX implementation"
+    ],
+    "confidence": "Low",
+    "reason": "Standard stack inferred",
+    "url": "https://bamkoles.com/",
+    "image": "images/bamkoles_com.png"
+  },
+  {
+    "title": "VisioLab: Der schnellste KI-basierte Self-Checkout f\u00fcr die Gastronomie.",
+    "description": "Schnelle Selbstbedienung - einfach mit der iPad-Kamera. Keine Barcodes erforderlich. Entwickelt f\u00fcr Geschwindigkeit, Einfachheit und Benutzerfreundlic...",
+    "technologies": [
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "keyFeatures": [
+      "Semantic HTML structure",
+      "Custom Styling",
+      "Interactive UX implementation"
+    ],
+    "confidence": "Low",
+    "reason": "Standard stack inferred",
+    "url": "https://visiolab.io/",
+    "image": "images/visiolab_io.png"
+  },
+  {
+    "title": "www.fineformsarchitects.com",
+    "description": "Professional frontend project showcasing responsive web design and modern layout.",
+    "technologies": [
+      "Unknown"
+    ],
+    "keyFeatures": [],
+    "confidence": "Low",
+    "reason": "Failed to load / Timeout",
+    "url": "https://www.fineformsarchitects.com/",
+    "image": ""
+  },
+  {
+    "title": "MTN Smart Card | in partnership with\u00a0Taaply",
+    "description": "Professional frontend project showcasing responsive web design and modern layout.",
+    "technologies": [
+      "Tailwind CSS"
+    ],
+    "keyFeatures": [
+      "Responsive design layout",
+      "Interactive UX implementation"
+    ],
+    "confidence": "Medium",
+    "reason": "Tailwind classes",
+    "url": "https://smartcard.mtn.cm/",
+    "image": "images/smartcard_mtn_cm.png"
+  },
+  {
+    "title": "Holy Ormus",
+    "description": "Professional frontend project showcasing responsive web design and modern layout.",
+    "technologies": [
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "keyFeatures": [
+      "Semantic HTML structure",
+      "Custom Styling",
+      "Interactive UX implementation"
+    ],
+    "confidence": "Low",
+    "reason": "Standard stack inferred",
+    "url": "https://holyormus.netlify.app/",
+    "image": "images/holyormus_netlify_app.png"
+  },
+  {
+    "title": "Taaply Co",
+    "description": "Professional frontend project showcasing responsive web design and modern layout.",
+    "technologies": [
+      "Tailwind CSS"
+    ],
+    "keyFeatures": [
+      "Responsive design layout",
+      "Interactive UX implementation"
+    ],
+    "confidence": "Medium",
+    "reason": "Tailwind classes",
+    "url": "https://resturant-menu-card.netlify.app/",
+    "image": "images/resturant_menu_card_netlify_app.png"
+  },
+  {
+    "title": "Order and Pay",
+    "description": "Professional frontend project showcasing responsive web design and modern layout.",
+    "technologies": [
+      "Tailwind CSS"
+    ],
+    "keyFeatures": [
+      "Responsive design layout",
+      "Interactive UX implementation"
+    ],
+    "confidence": "Medium",
+    "reason": "Tailwind classes",
+    "url": "https://taaply-order-invoice.netlify.app/",
+    "image": "images/taaply_order_invoice_netlify_app.png"
+  },
+  {
+    "title": "POWELL'S",
+    "description": "Professional frontend project showcasing responsive web design and modern layout.",
+    "technologies": [
+      "Tailwind CSS"
+    ],
+    "keyFeatures": [
+      "Responsive design layout",
+      "Interactive UX implementation"
+    ],
+    "confidence": "Medium",
+    "reason": "Tailwind classes",
+    "url": "https://powell-s.netlify.app/",
+    "image": "images/powell_s_netlify_app.png"
+  },
+  {
+    "title": "PREMIER MEDICAID LIMITED",
+    "description": "Professional frontend project showcasing responsive web design and modern layout.",
+    "technologies": [
+      "Tailwind CSS"
+    ],
+    "keyFeatures": [
+      "Responsive design layout",
+      "Interactive UX implementation"
+    ],
+    "confidence": "Medium",
+    "reason": "Tailwind classes",
+    "url": "https://premier-medicaid1.netlify.app/",
+    "image": "images/premier_medicaid1_netlify_app.png"
+  },
+  {
+    "title": "Bistury",
+    "description": "Professional frontend project showcasing responsive web design and modern layout.",
+    "technologies": [
+      "Bootstrap"
+    ],
+    "keyFeatures": [
+      "Responsive design layout",
+      "Interactive UX implementation"
+    ],
+    "confidence": "Medium",
+    "reason": "Bootstrap structure",
+    "url": "https://bistury.netlify.app/",
+    "image": "images/bistury_netlify_app.png"
+  },
+  {
+    "title": "Digital Agency Site",
+    "description": "Professional frontend project showcasing responsive web design and modern layout.",
+    "technologies": [
+      "Bootstrap"
+    ],
+    "keyFeatures": [
+      "Responsive design layout",
+      "Interactive UX implementation"
+    ],
+    "confidence": "Medium",
+    "reason": "Bootstrap structure",
+    "url": "https://digitalagency1.netlify.app/",
+    "image": "images/digitalagency1_netlify_app.png"
+  },
+  {
+    "title": "ForeverSocial",
+    "description": "ForeverSocial is a powerful social media management platform designed to streamline your online presence. Choose between our Lifetime Deal for up to 1...",
+    "technologies": [
+      "Tailwind CSS"
+    ],
+    "keyFeatures": [
+      "Responsive design layout",
+      "Interactive UX implementation"
+    ],
+    "confidence": "Medium",
+    "reason": "Tailwind classes",
+    "url": "https://foreversocial.netlify.app/",
+    "image": "images/foreversocial_netlify_app.png"
+  },
+  {
+    "title": "Kn0w.io",
+    "description": "Professional frontend project showcasing responsive web design and modern layout.",
+    "technologies": [
+      "Tailwind CSS"
+    ],
+    "keyFeatures": [
+      "Responsive design layout",
+      "Interactive UX implementation"
+    ],
+    "confidence": "Medium",
+    "reason": "Tailwind classes",
+    "url": "https://kn0w-io.netlify.app/",
+    "image": "images/kn0w_io_netlify_app.png"
+  },
+  {
+    "title": "AudienceInsights",
+    "description": "Professional frontend project showcasing responsive web design and modern layout.",
+    "technologies": [
+      "Tailwind CSS"
+    ],
+    "keyFeatures": [
+      "Responsive design layout",
+      "Interactive UX implementation"
+    ],
+    "confidence": "Medium",
+    "reason": "Tailwind classes",
+    "url": "https://audience-iq.netlify.app/",
+    "image": "images/audience_iq_netlify_app.png"
+  },
+  {
+    "title": "White Omar Property Solutions",
+    "description": "Professional frontend project showcasing responsive web design and modern layout.",
+    "technologies": [
+      "Tailwind CSS"
+    ],
+    "keyFeatures": [
+      "Responsive design layout",
+      "Interactive UX implementation"
+    ],
+    "confidence": "Medium",
+    "reason": "Tailwind classes",
+    "url": "https://white-omar.netlify.app/",
+    "image": "images/white_omar_netlify_app.png"
+  },
+  {
+    "title": "AI Prompt Library - Browse & Copy Powerful Prompts",
+    "description": "Discover 170+ ready-to-use AI prompts for any task. Browse, search, and copy powerful prompts instantly.",
+    "technologies": [
+      "Tailwind CSS"
+    ],
+    "keyFeatures": [
+      "Responsive design layout",
+      "Interactive UX implementation"
+    ],
+    "confidence": "Medium",
+    "reason": "Tailwind classes",
+    "url": "https://oneclickprompts.netlify.app/",
+    "image": "images/oneclickprompts_netlify_app.png"
+  },
+  {
+    "title": "TechHub - Your Local Computer Shop",
+    "description": "Professional frontend project showcasing responsive web design and modern layout.",
+    "technologies": [
+      "Tailwind CSS"
+    ],
+    "keyFeatures": [
+      "Responsive design layout",
+      "Interactive UX implementation"
+    ],
+    "confidence": "Medium",
+    "reason": "Tailwind classes",
+    "url": "https://techystar.netlify.app/",
+    "image": "images/techystar_netlify_app.png"
+  },
+  {
+    "title": "Site not found",
+    "description": "Professional frontend project showcasing responsive web design and modern layout.",
+    "technologies": [
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "keyFeatures": [
+      "Semantic HTML structure",
+      "Custom Styling",
+      "Interactive UX implementation"
+    ],
+    "confidence": "Low",
+    "reason": "Standard stack inferred",
+    "url": "https://react-chakra-project.netlify.app/",
+    "image": "images/react_chakra_project_netlify_app.png"
+  },
+  {
+    "title": "Fycle",
+    "description": "Professional frontend project showcasing responsive web design and modern layout.",
+    "technologies": [
+      "Tailwind CSS"
+    ],
+    "keyFeatures": [
+      "Responsive design layout",
+      "Interactive UX implementation"
+    ],
+    "confidence": "Medium",
+    "reason": "Tailwind classes",
+    "url": "https://fycle.netlify.app/",
+    "image": "images/fycle_netlify_app.png"
+  },
+  {
+    "title": "Site not found",
+    "description": "Professional frontend project showcasing responsive web design and modern layout.",
+    "technologies": [
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "keyFeatures": [
+      "Semantic HTML structure",
+      "Custom Styling",
+      "Interactive UX implementation"
+    ],
+    "confidence": "Low",
+    "reason": "Standard stack inferred",
+    "url": "https://digital-profilee.netlify.app/",
+    "image": "images/digital_profilee_netlify_app.png"
+  },
+  {
+    "title": "Site not found",
+    "description": "Professional frontend project showcasing responsive web design and modern layout.",
+    "technologies": [
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "keyFeatures": [
+      "Semantic HTML structure",
+      "Custom Styling",
+      "Interactive UX implementation"
+    ],
+    "confidence": "Low",
+    "reason": "Standard stack inferred",
+    "url": "https://jovial-dragon-70b42e.netlify.app/",
+    "image": "images/jovial_dragon_70b42e_netlify_app.png"
+  },
+  {
+    "title": "Site not found",
+    "description": "Professional frontend project showcasing responsive web design and modern layout.",
+    "technologies": [
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "keyFeatures": [
+      "Semantic HTML structure",
+      "Custom Styling",
+      "Interactive UX implementation"
+    ],
+    "confidence": "Low",
+    "reason": "Standard stack inferred",
+    "url": "https://debitcardreader-nfc-emv.netlify.app/",
+    "image": "images/debitcardreader_nfc_emv_netlify_app.png"
+  },
+  {
+    "title": "Asif Ali",
+    "description": "Web site created using create-react-app",
+    "technologies": [
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "keyFeatures": [
+      "Semantic HTML structure",
+      "Custom Styling",
+      "Interactive UX implementation"
+    ],
+    "confidence": "Low",
+    "reason": "Standard stack inferred",
+    "url": "https://asif-reachout.netlify.app/",
+    "image": "images/asif_reachout_netlify_app.png"
+  }
+]
