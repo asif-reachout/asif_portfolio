@@ -7,7 +7,7 @@ const projects = [
             "Tailwind CSS",
             "Vue.js"
         ],
-        "image": "./assets/images/innovorbs_netlify_app.png",
+        "image": "./assets/images/innovorbs_netlify_app.webp",
         "link": "https://innovorbs.netlify.app/"
     },
     {
@@ -17,7 +17,7 @@ const projects = [
             "Tailwind CSS",
             "Vue.js"
         ],
-        "image": "./assets/images/dashboard_vlinq_co_shop_dashboard.png",
+        "image": "./assets/images/dashboard_vlinq_co_shop_dashboard.webp",
         "link": "https://dashboard.vlinq.co/shop/dashboard"
     },
     {
@@ -26,7 +26,7 @@ const projects = [
         "tags": [
             "Tailwind CSS"
         ],
-        "image": "./assets/images/taaply_com.png",
+        "image": "./assets/images/taaply_com.webp",
         "link": "https://taaply.com/"
     },
     {
@@ -36,7 +36,7 @@ const projects = [
             "Vue.js",
             "Tailwind CSS"
         ],
-        "image": "./assets/images/vlinq_co.png",
+        "image": "./assets/images/vlinq_co.webp",
         "link": "https://vlinq.co/"
     },
     {
@@ -46,7 +46,7 @@ const projects = [
             "Vue.js",
             "Tailwind CSS"
         ],
-        "image": "./assets/images/store_vlinq_co.png",
+        "image": "./assets/images/store_vlinq_co.webp",
         "link": "https://store.vlinq.co/"
     },
     {
@@ -56,7 +56,7 @@ const projects = [
             "Vue.js",
             "Tailwind CSS"
         ],
-        "image": "./assets/images/store_vlinq_co_demo_store.png",
+        "image": "./assets/images/store_vlinq_co_demo_store.webp",
         "link": "https://store.vlinq.co/demo_store/"
     },
     {
@@ -66,7 +66,7 @@ const projects = [
             "Vue.js",
             "Tailwind CSS"
         ],
-        "image": "./assets/images/store_dex_vlinq_co_furorclone.png",
+        "image": "./assets/images/store_dex_vlinq_co_furorclone.webp",
         "link": "https://store.dex.vlinq.co/furorclone"
     },
     {
@@ -76,7 +76,7 @@ const projects = [
             "Vue.js",
             "Tailwind CSS"
         ],
-        "image": "./assets/images/store_dex_vlinq_co_alkaramclone.png",
+        "image": "./assets/images/store_dex_vlinq_co_alkaramclone.webp",
         "link": "https://store.dex.vlinq.co/alkaramclone"
     },
     {
@@ -86,7 +86,7 @@ const projects = [
             "Vue.js",
             "Tailwind CSS"
         ],
-        "image": "./assets/images/store_vlinq_co_pluto_theme.png",
+        "image": "./assets/images/store_vlinq_co_pluto_theme.webp",
         "link": "https://store.vlinq.co/pluto_theme"
     },
     {
@@ -96,7 +96,7 @@ const projects = [
             "Vue.js",
             "Tailwind CSS"
         ],
-        "image": "./assets/images/store_vlinq_co_default_theme.png",
+        "image": "./assets/images/store_vlinq_co_default_theme.webp",
         "link": "https://store.vlinq.co/default_theme"
     },
     {
@@ -106,7 +106,7 @@ const projects = [
             "HTML/CSS",
             "JavaScript"
         ],
-        "image": "./assets/images/horizam_com.png",
+        "image": "./assets/images/horizam_com.webp",
         "link": "https://horizam.com/"
     },
     {
@@ -116,7 +116,7 @@ const projects = [
             "Vue.js",
             "Tailwind CSS"
         ],
-        "image": "./assets/images/innovorbs_com.png",
+        "image": "./assets/images/innovorbs_com.webp",
         "link": "https://innovorbs.com/"
     },
     {
@@ -126,7 +126,7 @@ const projects = [
             "HTML/CSS",
             "JavaScript"
         ],
-        "image": "./assets/images/themedicators_com.png",
+        "image": "./assets/images/themedicators_com.webp",
         "link": "https://themedicators.com/"
     },
     {
@@ -135,7 +135,7 @@ const projects = [
         "tags": [
             "Bootstrap"
         ],
-        "image": "./assets/images/www_renderhealth_com.png",
+        "image": "./assets/images/www_renderhealth_com.webp",
         "link": "https://www.renderhealth.com/"
     },
     {
@@ -145,7 +145,7 @@ const projects = [
             "HTML/CSS",
             "JavaScript"
         ],
-        "image": "./assets/images/bamkoles_com.png",
+        "image": "./assets/images/bamkoles_com.webp",
         "link": "https://bamkoles.com/"
     },
     {
@@ -155,7 +155,7 @@ const projects = [
             "HTML/CSS",
             "JavaScript"
         ],
-        "image": "./assets/images/visiolab_io.png",
+        "image": "./assets/images/visiolab_io.webp",
         "link": "https://visiolab.io/"
     },
     {
@@ -164,7 +164,7 @@ const projects = [
         "tags": [
             "Bootstrap"
         ],
-        "image": "./assets/images/smartcard_mtn_cm.png",
+        "image": "./assets/images/smartcard_mtn_cm.webp",
         "link": "https://smartcard.mtn.cm/"
     },
     {
@@ -174,7 +174,7 @@ const projects = [
             "HTML/CSS",
             "JavaScript"
         ],
-        "image": "./assets/images/holyormus_netlify_app.png",
+        "image": "./assets/images/holyormus_netlify_app.webp",
         "link": "https://holyormus.netlify.app/"
     },
     {
@@ -183,7 +183,7 @@ const projects = [
         "tags": [
             "Bootstrap"
         ],
-        "image": "./assets/images/resturant_menu_card_netlify_app.png",
+        "image": "./assets/images/resturant_menu_card_netlify_app.webp",
         "link": "https://resturant-menu-card.netlify.app/"
     },
     {
@@ -192,7 +192,7 @@ const projects = [
         "tags": [
             "Bootstrap"
         ],
-        "image": "./assets/images/taaply_order_invoice_netlify_app.png",
+        "image": "./assets/images/taaply_order_invoice_netlify_app.webp",
         "link": "https://taaply-order-invoice.netlify.app/"
     },
     {
@@ -201,7 +201,7 @@ const projects = [
         "tags": [
             "Bootstrap"
         ],
-        "image": "./assets/images/powell_s_netlify_app.png",
+        "image": "./assets/images/powell_s_netlify_app.webp",
         "link": "https://powell-s.netlify.app/"
     },
     {
@@ -210,7 +210,7 @@ const projects = [
         "tags": [
             "Bootstrap"
         ],
-        "image": "./assets/images/premier_medicaid1_netlify_app.png",
+        "image": "./assets/images/premier_medicaid1_netlify_app.webp",
         "link": "https://premier-medicaid1.netlify.app/"
     },
     {
@@ -219,7 +219,7 @@ const projects = [
         "tags": [
             "Bootstrap"
         ],
-        "image": "./assets/images/bistury_netlify_app.png",
+        "image": "./assets/images/bistury_netlify_app.webp",
         "link": "https://bistury.netlify.app/"
     },
     {
@@ -228,7 +228,7 @@ const projects = [
         "tags": [
             "Bootstrap"
         ],
-        "image": "./assets/images/digitalagency1_netlify_app.png",
+        "image": "./assets/images/digitalagency1_netlify_app.webp",
         "link": "https://digitalagency1.netlify.app/"
     },
     {
@@ -237,7 +237,7 @@ const projects = [
         "tags": [
             "Tailwind CSS"
         ],
-        "image": "./assets/images/foreversocial_netlify_app.png",
+        "image": "./assets/images/foreversocial_netlify_app.webp",
         "link": "https://foreversocial.netlify.app/"
     },
     {
@@ -246,7 +246,7 @@ const projects = [
         "tags": [
             "Tailwind CSS"
         ],
-        "image": "./assets/images/kn0w_io_netlify_app.png",
+        "image": "./assets/images/kn0w_io_netlify_app.webp",
         "link": "https://kn0w-io.netlify.app/"
     },
     {
@@ -255,7 +255,7 @@ const projects = [
         "tags": [
             "Tailwind CSS"
         ],
-        "image": "./assets/images/audience_iq_netlify_app.png",
+        "image": "./assets/images/audience_iq_netlify_app.webp",
         "link": "https://audience-iq.netlify.app/"
     },
     {
@@ -264,7 +264,7 @@ const projects = [
         "tags": [
             "Tailwind CSS"
         ],
-        "image": "./assets/images/white_omar_netlify_app.png",
+        "image": "./assets/images/white_omar_netlify_app.webp",
         "link": "https://white-omar.netlify.app/"
     },
     {
@@ -273,7 +273,7 @@ const projects = [
         "tags": [
             "Tailwind CSS"
         ],
-        "image": "./assets/images/oneclickprompts_netlify_app.png",
+        "image": "./assets/images/oneclickprompts_netlify_app.webp",
         "link": "https://oneclickprompts.netlify.app/"
     },
     {
@@ -282,7 +282,7 @@ const projects = [
         "tags": [
             "Tailwind CSS"
         ],
-        "image": "./assets/images/techystar_netlify_app.png",
+        "image": "./assets/images/techystar_netlify_app.webp",
         "link": "https://techystar.netlify.app/"
     },
     {
@@ -291,7 +291,7 @@ const projects = [
         "tags": [
             "Bootstrap"
         ],
-        "image": "./assets/images/fycle_netlify_app.png",
+        "image": "./assets/images/fycle_netlify_app.webp",
         "link": "https://fycle.netlify.app/"
     },
     {
@@ -301,7 +301,7 @@ const projects = [
             "HTML/CSS",
             "JavaScript"
         ],
-        "image": "./assets/images/asif_reachout_netlify_app.png",
+        "image": "./assets/images/asif_reachout_netlify_app.webp",
         "link": "https://asif-reachout.netlify.app/"
     }
 ];
