@@ -1,5 +1,16 @@
 const projects = [
     {
+        "title": "VenueBook Pro — Hall & Venue Booking",
+        "description": "A production-quality, fully responsive venue booking web application built for the KrackedDevs bounty.",
+        "tags": [
+            "Vue.js",
+            "Tailwind CSS",
+            "Pinia"
+        ],
+        "image": "./assets/images/venuebook_pro_netlify_app.webp",
+        "link": "https://venuebook-pro.netlify.app/"
+    },
+    {
         "title": "innovorbs.netlify.app",
         "description": "Professional frontend project showcasing responsive web design and modern layout.",
         "tags": [

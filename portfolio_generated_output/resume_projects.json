@@ -1,5 +1,10 @@
 [
   {
+    "Project Name": "VenueBook Pro — Hall & Venue Booking",
+    "Description": "A production-quality, fully responsive venue booking web application built for the KrackedDevs bounty.",
+    "Technologies": "Vue.js, Tailwind CSS, Pinia, Supabase"
+  },
+  {
     "Project Name": "innovorbs.netlify.app",
     "Description": "Professional frontend project showcasing responsive web design and modern layout.",
     "Technologies": "Nuxt.js, Tailwind CSS, Vue.js"
