@@ -269,74 +269,122 @@
                 </p>
             </div>
 
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
                 <!-- Frontend -->
-                <div class="glass-card p-8 rounded-2xl hover:bg-slate-800 transition-all duration-300">
-                    <div
-                        class="w-12 h-12 bg-indigo-500/20 rounded-lg flex items-center justify-center mb-6 text-indigo-400">
-                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z">
-                            </path>
-                        </svg>
-                    </div>
-                    <h3 class="text-xl font-bold text-white mb-4">Frontend</h3>
+                <div class="glass-card p-6 rounded-2xl hover:bg-slate-800 transition-all duration-300">
+                    <h3 class="text-lg font-bold text-white mb-4">Frontend</h3>
                     <div class="flex flex-wrap gap-2">
                         <span
-                            class="px-3 py-1 bg-slate-700 text-indigo-300 rounded-full text-sm font-medium">Vue.js</span>
-                        <span class="px-3 py-1 bg-slate-700 text-sky-300 rounded-full text-sm font-medium">Quasar</span>
-                        <span class="px-3 py-1 bg-slate-700 text-cyan-300 rounded-full text-sm font-medium">Tailwind
+                            class="px-3 py-1 bg-slate-700/50 text-indigo-300 rounded-full text-sm font-medium">Vue.js</span>
+                        <span
+                            class="px-3 py-1 bg-slate-700/50 text-indigo-300 rounded-full text-sm font-medium">Nuxt.js</span>
+                        <span
+                            class="px-3 py-1 bg-slate-700/50 text-indigo-300 rounded-full text-sm font-medium">React.js</span>
+                        <span
+                            class="px-3 py-1 bg-slate-700/50 text-indigo-300 rounded-full text-sm font-medium">Quasar</span>
+                        <span
+                            class="px-3 py-1 bg-slate-700/50 text-indigo-300 rounded-full text-sm font-medium">Vuetify</span>
+                    </div>
+                </div>
+
+                <!-- Core -->
+                <div class="glass-card p-6 rounded-2xl hover:bg-slate-800 transition-all duration-300">
+                    <h3 class="text-lg font-bold text-white mb-4">Core</h3>
+                    <div class="flex flex-wrap gap-2">
+                        <span
+                            class="px-3 py-1 bg-slate-700/50 text-orange-300 rounded-full text-sm font-medium">JavaScript</span>
+                        <span
+                            class="px-3 py-1 bg-slate-700/50 text-orange-300 rounded-full text-sm font-medium">HTML5</span>
+                        <span
+                            class="px-3 py-1 bg-slate-700/50 text-orange-300 rounded-full text-sm font-medium">PHP</span>
+                    </div>
+                </div>
+
+                <!-- Database -->
+                <div class="glass-card p-6 rounded-2xl hover:bg-slate-800 transition-all duration-300">
+                    <h3 class="text-lg font-bold text-white mb-4">Database</h3>
+                    <div class="flex flex-wrap gap-2">
+                        <span
+                            class="px-3 py-1 bg-slate-700/50 text-blue-300 rounded-full text-sm font-medium">MySQL</span>
+                        <span
+                            class="px-3 py-1 bg-slate-700/50 text-blue-300 rounded-full text-sm font-medium">Supabase</span>
+                        <span
+                            class="px-3 py-1 bg-slate-700/50 text-blue-300 rounded-full text-sm font-medium">MongoDB</span>
+                    </div>
+                </div>
+
+                <!-- State -->
+                <div class="glass-card p-6 rounded-2xl hover:bg-slate-800 transition-all duration-300">
+                    <h3 class="text-lg font-bold text-white mb-4">State</h3>
+                    <div class="flex flex-wrap gap-2">
+                        <span
+                            class="px-3 py-1 bg-slate-700/50 text-yellow-300 rounded-full text-sm font-medium">Pinia</span>
+                        <span
+                            class="px-3 py-1 bg-slate-700/50 text-yellow-300 rounded-full text-sm font-medium">Vuex</span>
+                    </div>
+                </div>
+
+                <!-- Tools -->
+                <div class="glass-card p-6 rounded-2xl hover:bg-slate-800 transition-all duration-300">
+                    <h3 class="text-lg font-bold text-white mb-4">Tools</h3>
+                    <div class="flex flex-wrap gap-2">
+                        <span
+                            class="px-3 py-1 bg-slate-700/50 text-pink-300 rounded-full text-sm font-medium">Git</span>
+                        <span
+                            class="px-3 py-1 bg-slate-700/50 text-pink-300 rounded-full text-sm font-medium">GitHub</span>
+                        <span
+                            class="px-3 py-1 bg-slate-700/50 text-pink-300 rounded-full text-sm font-medium">Figma</span>
+                        <span class="px-3 py-1 bg-slate-700/50 text-pink-300 rounded-full text-sm font-medium">REST
+                            APIs</span>
+                        <span
+                            class="px-3 py-1 bg-slate-700/50 text-pink-300 rounded-full text-sm font-medium">Vercel</span>
+                        <span
+                            class="px-3 py-1 bg-slate-700/50 text-pink-300 rounded-full text-sm font-medium">Netlify</span>
+                    </div>
+                </div>
+
+                <!-- Frameworks -->
+                <div class="glass-card p-6 rounded-2xl hover:bg-slate-800 transition-all duration-300">
+                    <h3 class="text-lg font-bold text-white mb-4">Frameworks</h3>
+                    <div class="flex flex-wrap gap-2">
+                        <span class="px-3 py-1 bg-slate-700/50 text-green-300 rounded-full text-sm font-medium">Vue
+                            Js</span>
+                        <span
+                            class="px-3 py-1 bg-slate-700/50 text-green-300 rounded-full text-sm font-medium">Quasar</span>
+                        <span
+                            class="px-3 py-1 bg-slate-700/50 text-green-300 rounded-full text-sm font-medium">React.js</span>
+                        <span
+                            class="px-3 py-1 bg-slate-700/50 text-green-300 rounded-full text-sm font-medium">Laravel</span>
+                    </div>
+                </div>
+
+                <!-- Styling -->
+                <div class="glass-card p-6 rounded-2xl hover:bg-slate-800 transition-all duration-300">
+                    <h3 class="text-lg font-bold text-white mb-4">Styling</h3>
+                    <div class="flex flex-wrap gap-2">
+                        <span class="px-3 py-1 bg-slate-700/50 text-cyan-300 rounded-full text-sm font-medium">Tailwind
                             CSS</span>
+                        <span class="px-3 py-1 bg-slate-700/50 text-cyan-300 rounded-full text-sm font-medium">SCSS /
+                            Sass</span>
                         <span
-                            class="px-3 py-1 bg-slate-700 text-green-300 rounded-full text-sm font-medium">Nuxt.js</span>
+                            class="px-3 py-1 bg-slate-700/50 text-cyan-300 rounded-full text-sm font-medium">Bootstrap</span>
                         <span
-                            class="px-3 py-1 bg-slate-700 text-blue-300 rounded-full text-sm font-medium">Vuetify</span>
-                        <span
-                            class="px-3 py-1 bg-slate-700 text-white rounded-full text-sm font-medium">Bootstrap</span>
+                            class="px-3 py-1 bg-slate-700/50 text-cyan-300 rounded-full text-sm font-medium">CSS3</span>
+                        <span class="px-3 py-1 bg-slate-700/50 text-cyan-300 rounded-full text-sm font-medium">CSS
+                            Grid</span>
+                        <span class="px-3 py-1 bg-slate-700/50 text-cyan-300 rounded-full text-sm font-medium">CSS
+                            Flexbox</span>
                     </div>
                 </div>
 
-                <!-- Languages -->
-                <div class="glass-card p-8 rounded-2xl hover:bg-slate-800 transition-all duration-300">
-                    <div
-                        class="w-12 h-12 bg-purple-500/20 rounded-lg flex items-center justify-center mb-6 text-purple-400">
-                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4"></path>
-                        </svg>
-                    </div>
-                    <h3 class="text-xl font-bold text-white mb-4">Languages</h3>
+                <!-- CMS / Platform -->
+                <div class="glass-card p-6 rounded-2xl hover:bg-slate-800 transition-all duration-300">
+                    <h3 class="text-lg font-bold text-white mb-4">CMS / Platform</h3>
                     <div class="flex flex-wrap gap-2">
                         <span
-                            class="px-3 py-1 bg-slate-700 text-yellow-300 rounded-full text-sm font-medium">JavaScript</span>
+                            class="px-3 py-1 bg-slate-700/50 text-purple-300 rounded-full text-sm font-medium">WordPress</span>
                         <span
-                            class="px-3 py-1 bg-slate-700 text-orange-400 rounded-full text-sm font-medium">HTML5</span>
-                        <span class="px-3 py-1 bg-slate-700 text-blue-400 rounded-full text-sm font-medium">CSS3</span>
-                        <span class="px-3 py-1 bg-slate-700 text-white rounded-full text-sm font-medium">JSON</span>
-                    </div>
-                </div>
-
-                <!-- Tools & Others -->
-                <div class="glass-card p-8 rounded-2xl hover:bg-slate-800 transition-all duration-300">
-                    <div
-                        class="w-12 h-12 bg-pink-500/20 rounded-lg flex items-center justify-center mb-6 text-pink-400">
-                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4">
-                            </path>
-                        </svg>
-                    </div>
-                    <h3 class="text-xl font-bold text-white mb-4">Tools</h3>
-                    <div class="flex flex-wrap gap-2">
-                        <span class="px-3 py-1 bg-slate-700 text-orange-300 rounded-full text-sm font-medium">Git /
-                            GitHub</span>
-                        <span
-                            class="px-3 py-1 bg-slate-700 text-indigo-300 rounded-full text-sm font-medium">Pinia</span>
-                        <span class="px-3 py-1 bg-slate-700 text-green-300 rounded-full text-sm font-medium">Vuex</span>
-                        <span class="px-3 py-1 bg-slate-700 text-white rounded-full text-sm font-medium">Vue
-                            Router</span>
-                        <span class="px-3 py-1 bg-slate-700 text-sky-300 rounded-full text-sm font-medium">Responsive
-                            Design</span>
+                            class="px-3 py-1 bg-slate-700/50 text-purple-300 rounded-full text-sm font-medium">Shopify</span>
                     </div>
                 </div>
             </div>
