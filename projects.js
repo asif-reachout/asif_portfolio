@@ -154,7 +154,8 @@ const projects = [
         "description": "Bamkoles is a design-driven building, construction management and development firm dedicated to crafting beautiful homes in Georgia.",
         "tags": [
             "HTML/CSS",
-            "JavaScript"
+            "JavaScript",
+            "WordPress"
         ],
         "image": "./assets/images/bamkoles_com.webp",
         "link": "https://bamkoles.com/"
@@ -183,7 +184,8 @@ const projects = [
         "description": "Professional frontend project showcasing responsive web design and modern layout.",
         "tags": [
             "HTML/CSS",
-            "JavaScript"
+            "JavaScript",
+            "WordPress"
         ],
         "image": "./assets/images/holyormus_netlify_app.webp",
         "link": "https://holyormus.netlify.app/"
@@ -237,7 +239,8 @@ const projects = [
         "title": "Digital Agency Site",
         "description": "Professional frontend project showcasing responsive web design and modern layout.",
         "tags": [
-            "Bootstrap"
+            "Bootstrap",
+            "WordPress"
         ],
         "image": "./assets/images/digitalagency1_netlify_app.webp",
         "link": "https://digitalagency1.netlify.app/"
